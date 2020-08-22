@@ -1,6 +1,12 @@
 Our best thoughts came from others.
 
 The best preparation for tomorrow is doing your best today.
+<<<<<<< HEAD
 =======
 -Letters and Social Aims. Quotations and Originality. Ralph Waldo Emreson - Emerson ca.1820-1840.
+>>>>>>> lincoln
+=======
+-Letters and Social Aims. Quotations and Originality. Ralph Waldo Emreson - Emerson ca.1800s
+
+Four score and seven years ago our fathers brought forth on this continent, a new nation, concieved in Liberty, and dedicated to the proposition that all men are created equal.
 >>>>>>> lincoln
